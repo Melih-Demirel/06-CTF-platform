@@ -42,7 +42,7 @@ PG_USER=postgres
 PG_PWD=postgres
 PG_DB=ctf
 
-# JWT
+# JWT 
 JWT_SECRET=dfdhhf8gh523reh6qedn37dferpoawdn381j
 JWT_EXPIRATION=24h
 ```
