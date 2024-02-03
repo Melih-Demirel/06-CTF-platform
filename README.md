@@ -1,6 +1,5 @@
 # Capture The Flag Platform
-## _PSOPV - Groep 2 (Melih Demirel, Serban-Andrei Cojocaru, Rubin Paudel)_
-Dit is de GitHub repository voor het CTF Platform project van groep 2.
+
 
 ## Tech-Stack
 
