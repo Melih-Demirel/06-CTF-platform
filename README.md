@@ -47,16 +47,6 @@ JWT_SECRET=dfdhhf8gh523reh6qedn37dferpoawdn381j
 JWT_EXPIRATION=24h
 ```
 
-## Mijlpalen
-Dit zijn onze initiele mijlpalen van ons project.
-| Datum | Mijlpaal |
-| ------ | ------ |
-| 07/04 | API + Config Paginas |
-| 21/04 | Challenges aanmaken |
-| 22/04 | Notificaties sturen |
-| 28/04 | Teams maken + Joinen |
-| 29/04 | Scorebord + Pagina Layouts |
-
 
 [//]: #
    [node.js]: <http://nodejs.org>
